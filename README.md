@@ -1,5 +1,5 @@
 # vimongoid
-**Add syntax for mongoid keywords
+Add syntax highlighting for mongoid keywords
 
 ## Usage
 copy ruby.vim into $VIMRUNTIME/after/syntax
